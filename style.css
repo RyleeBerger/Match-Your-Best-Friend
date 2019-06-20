@@ -7,9 +7,10 @@ h1 {
   text-align: center;
   font-family: 'Sofia', cursive;
   border: 5px dotted white;
+  font-size: 48px;
 }
 
-img {
+.dogs {
   width: 1425px;
   height: 500px;
   object-fit: cover;
@@ -27,7 +28,7 @@ img {
 h3 {
   text-align: center;
   font-family: 'Sofia', cursive;
-  font-size: 30px;
+  font-size: 40px;
   margin-bottom: 5px;
 }
 .mission {
@@ -41,7 +42,7 @@ h3 {
   margin-left:100px;
 }
 
-.links {
+.tabs {
   border: 3px solid white;
   background: white;
   margin-bottom: 10px;
@@ -49,8 +50,8 @@ h3 {
 }
 
 form {
-  font-family: 'Montserrat', sans-serif;
   font-size:17px;
+  font-family: 'Montserrat', sans-serif;
   margin-left: 350px;
   border: 3px dotted white;
   background-color: white;
@@ -59,7 +60,7 @@ form {
   padding: 14px;
 }
 
-button {
+.button {
   margin-left: 600px;
   width: 250px;
   height: 60px;
@@ -69,3 +70,63 @@ button {
   font-family: 'Sofia', cursive;
   font-size: 23px;
 }
+
+.page1 {
+  font-size: 30px;
+  margin-left: 200px;
+  color: #e98f98;
+  text-decoration: none;
+}
+
+.page2 {
+  font-size: 30px;
+  margin-left: 400px;
+  color: #e98f98;
+  text-decoration: none;
+}
+
+.page3 {
+  font-size: 30px;
+  margin-left: 400px;
+  color: #e98f98;
+  text-decoration: none;
+}
+
+.form-link {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  margin-left: 560px;
+  color: black;
+  background-color: #f3c1c6;
+  border: 5px dotted white;
+  border-radius:12px;
+  padding: 15px;
+}
+
+.akitas {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.AEDs {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.pointy-ears {
+  display: flex;
+}
+
+/* .Breeds {
+  background-color: #f3c1c6;
+  text-align: center;
+  font-family: 'Sofia', cursive;
+  border: 5px dotted white;
+  font-size: 48px;
+} */
