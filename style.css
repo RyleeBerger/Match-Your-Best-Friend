@@ -162,6 +162,7 @@ form {
   display: flex;
   margin-top: 10px;
 }
+
 .pugs {
   width: 45%;
   text-align: center;
@@ -181,6 +182,70 @@ form {
   display: flex;
   margin-top: 10px;
 }
+
+.havaneses {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.labradors{
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.big-and-small-dogs {
+  display: flex;
+  margin-top: 10px;
+}
+
+.blood-hounds {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.saint-bernards{
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.more-floppy-ears {
+  display: flex;
+  margin-top: 10px;
+}
+
+.chihuahuas {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.blood-hounds{
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.small-and-big {
+  display: flex;
+  margin-top: 10px;
+}
+
+
+
+/* background-attachment: fixed; */
 
 
 /* .Breeds {
