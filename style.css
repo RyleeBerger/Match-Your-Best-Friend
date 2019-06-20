@@ -123,6 +123,66 @@ form {
   display: flex;
 }
 
+.ASs {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.GRs {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.shepherds {
+  display: flex;
+  margin-top: 10px;
+}
+
+.beagles {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.golden-retrievers{
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.floppy-ears {
+  display: flex;
+  margin-top: 10px;
+}
+.pugs {
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.yorkies{
+  width: 45%;
+  text-align: center;
+  border: 4px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.small-dogs {
+  display: flex;
+  margin-top: 10px;
+}
+
+
 /* .Breeds {
   background-color: #f3c1c6;
   text-align: center;
