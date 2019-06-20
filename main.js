@@ -12,8 +12,9 @@ btn.on("click",chooseDog);
 
 function chooseDog(){
   if (hyper.checked === true) {
-    console.log("chooseDog");
     window.location.href = "dogs.html";
+    console.log("chooseDog");
+
 }else if (hyper.checked === true && large.checked === true && okWithShedding.checked === true){
   //dog breed
 }else if (hyper.checked === true && medium.checked === true && noShedding.checked === true){

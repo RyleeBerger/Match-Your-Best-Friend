@@ -1,5 +1,7 @@
 body {
-  background-color: #d8eff0;
+  /* background-color: #d8eff0; */
+  background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg");
+  background-attachment: fixed;
 }
 
 h1 {
@@ -19,10 +21,11 @@ h1 {
 
 .quote {
   text-align: center;
-  font-size: 23px;
+  font-size: 21px;
   border: 3px solid;
   border-color: #f3c1c6;
   background-color: #f3c1c6;
+  font-family: 'Raleway', sans-serif;
 }
 
 h3 {
@@ -51,13 +54,14 @@ h3 {
 
 form {
   font-size:17px;
-  font-family: 'Montserrat', sans-serif;
   margin-left: 350px;
   border: 3px dotted white;
   background-color: white;
   border-radius: 15px;
   margin-right:350px;
   padding: 14px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
 .button {
@@ -107,33 +111,35 @@ form {
 .akitas {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  font-family: 'Raleway', sans-serif;
   margin-left: 50px;
+  border: 5px solid #f3c1c6;
 }
 
 .AEDs {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
 
 .pointy-ears {
   display: flex;
+  font-family: 'Raleway', sans-serif;
 }
 
 .ASs {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 50px;
 }
 
 .GRs {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
@@ -141,19 +147,21 @@ form {
 .shepherds {
   display: flex;
   margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
 .beagles {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 50px;
 }
 
 .golden-retrievers{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
@@ -161,19 +169,21 @@ form {
 .floppy-ears {
   display: flex;
   margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
 .pugs {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 50px;
 }
 
 .yorkies{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
@@ -181,19 +191,21 @@ form {
 .small-dogs {
   display: flex;
   margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
 .havaneses {
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 50px;
 }
 
 .labradors{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
@@ -201,19 +213,21 @@ form {
 .big-and-small-dogs {
   display: flex;
   margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
-.blood-hounds {
+.blood-hounds{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 50px;
 }
 
 .saint-bernards{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
@@ -221,19 +235,21 @@ form {
 .more-floppy-ears {
   display: flex;
   margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
-.chihuahuas {
+.chihuahua{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 50px;
 }
 
-.blood-hounds{
+.dalmatian{
   width: 45%;
   text-align: center;
-  border: 4px solid #f3c1c6;
+  border: 5px solid #f3c1c6;
   margin-left: 25px;
   /* margin-left: 125px; */
 }
@@ -241,6 +257,96 @@ form {
 .small-and-big {
   display: flex;
   margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.belgian-malionis{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.GSMD{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.different-looks {
+  display: flex;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.basset-hound{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.austrailian-cattle-dog{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.different-colors {
+  display: flex;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.corgi{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.pit-bull{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.big-to-small{
+  display: flex;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.irish-wolfhound{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 50px;
+}
+
+.goldendoodle{
+  width: 45%;
+  text-align: center;
+  border: 5px solid #f3c1c6;
+  margin-left: 25px;
+  /* margin-left: 125px; */
+}
+
+.fluffy-dogs{
+  display: flex;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+
 }
 
 
